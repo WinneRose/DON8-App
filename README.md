@@ -1,4 +1,3 @@
-![Banner](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/225/031/datas/original.png "Banner")
 Check on devpost: https://devpost.com/software/don8-donation-made-great?
 
 ## Inspiration
