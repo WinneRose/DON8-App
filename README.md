@@ -33,8 +33,6 @@ We want to make DON8 with not just an app. We are decided to make it real and wo
 * create an another app for restaurants / cafes.
 * set meetings and interviews to be united about donation with cafes & restaurants.
 
-![Roadmap](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/225/032/datas/gallery.jpg "Roadmap")
-
 ## Test DON8 now!
 Credentials
 E-mail: demo@demo.com
